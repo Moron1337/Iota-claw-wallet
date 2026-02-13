@@ -2,7 +2,7 @@
   "id": "openclaw-iota-wallet",
   "name": "IOTA Wallet",
   "description": "IOTA wallet tools for OpenClaw machine-to-machine payments with approval-gated transaction flow and smart-contract support.",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "skills": ["./skills"],
   "configSchema": {
     "type": "object",

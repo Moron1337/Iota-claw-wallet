@@ -4,6 +4,13 @@ All notable changes to this project are documented in this file.
 
 This project follows Semantic Versioning.
 
+## [0.1.2] - 2026-02-13
+
+### Changed
+
+- Added a step-by-step transfer execution guide to `README.md` with example payloads for `prepare`, `approve`, `dry-run`, and `execute`.
+- Synced plugin manifest version to `0.1.2`.
+
 ## [0.1.1] - 2026-02-13
 
 ### Changed
