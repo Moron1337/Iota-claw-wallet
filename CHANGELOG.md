@@ -4,6 +4,13 @@ All notable changes to this project are documented in this file.
 
 This project follows Semantic Versioning.
 
+## [0.1.1] - 2026-02-13
+
+### Changed
+
+- Updated repository, issue, homepage, CI badge, and security advisory links to the renamed GitHub repo `Moron1337/openclaw-iota-wallet`.
+- Aligned lockfile package name metadata with `openclaw-iota-wallet`.
+
 ## [0.1.0] - 2026-02-13
 
 ### Added

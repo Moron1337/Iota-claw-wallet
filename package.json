@@ -1,6 +1,6 @@
 {
   "name": "openclaw-iota-wallet",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Machine-to-machine wallet plugin for OpenClaw on IOTA: bots can hold funds, pay each other, and trigger smart contracts.",
   "license": "MIT",
   "repository": {
