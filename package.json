@@ -5,12 +5,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Moron1337/iota-claw-wallet.git"
+    "url": "git+https://github.com/Moron1337/openclaw-iota-wallet.git"
   },
   "bugs": {
-    "url": "https://github.com/Moron1337/iota-claw-wallet/issues"
+    "url": "https://github.com/Moron1337/openclaw-iota-wallet/issues"
   },
-  "homepage": "https://github.com/Moron1337/iota-claw-wallet#readme",
+  "homepage": "https://github.com/Moron1337/openclaw-iota-wallet#readme",
   "keywords": [
     "openclaw",
     "iota",

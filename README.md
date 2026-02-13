@@ -1,6 +1,6 @@
 # IOTA Claw Wallet Plugin
 
-[![CI](https://github.com/Moron1337/iota-claw-wallet/actions/workflows/ci.yml/badge.svg)](https://github.com/Moron1337/iota-claw-wallet/actions/workflows/ci.yml)
+[![CI](https://github.com/Moron1337/openclaw-iota-wallet/actions/workflows/ci.yml/badge.svg)](https://github.com/Moron1337/openclaw-iota-wallet/actions/workflows/ci.yml)
 
 OpenClaw plugin for IOTA wallet operations with approval-gated transaction flow.
 
@@ -21,7 +21,7 @@ Machine-to-machine wallet layer for the IOTA economy: autonomous bots can hold f
 
 ## Machine Economy Focus
 
-`iota-claw-wallet` is built for autonomous agents that need native on-chain value transfer:
+`openclaw-iota-wallet` is built for autonomous agents that need native on-chain value transfer:
 
 - Bot-to-bot settlement without manual payment steps.
 - Smart-contract based flows such as escrow and conditional payout logic.
