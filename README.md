@@ -4,6 +4,8 @@
 
 OpenClaw plugin for IOTA wallet operations with approval-gated transaction flow.
 
+Machine-to-machine wallet layer for the IOTA economy: autonomous bots can hold funds, pay each other, and execute smart contracts in real time.
+
 - Plugin id: `openclaw-iota-wallet`
 - Package: `iota-claw-wallet`
 - Default network: `mainnet`
@@ -16,6 +18,14 @@ OpenClaw plugin for IOTA wallet operations with approval-gated transaction flow.
 - Signature verification before final send.
 - Strict CLI allowlist (`iota client` and `iota keytool` only).
 - Install bootstrap that sets `mainnet` and auto-creates a first wallet address if missing.
+
+## Machine Economy Focus
+
+`iota-claw-wallet` is built for autonomous agents that need native on-chain value transfer:
+
+- Bot-to-bot settlement without manual payment steps.
+- Smart-contract based flows such as escrow and conditional payout logic.
+- Fast move from agent decision to verifiable on-chain execution.
 
 ## Requirements
 
